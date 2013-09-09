@@ -1,3 +1,8 @@
+## Euler Problem 18
+
+'''
+Find the maximum total from top to bottom of the triangle below
+'''
 triangle = [
 [75],
 [95, 64],

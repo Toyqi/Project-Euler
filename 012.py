@@ -2,6 +2,7 @@
 '''
 What is the value of the first triangle number to have over five hundred divisors?
 '''
+
 def nFactors(x):
     nF = 0
     for i in range(2,x/2):
